@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi there! I'm Thaisllayne Santana👋
+ I'm a **Junior Developer** and I am looking for my first job in this wide area.
 
-<!--
-**Thaisllayne/Thaisllayne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 📫 How to reach me 
+[![Linkedin Badge](https://img.shields.io/badge/-Thaisllayne%20Santana-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thaisllayne-santana/)](https://www.linkedin.com/in/thaisllayne-santana/) 
+[![Gmail Badge](https://img.shields.io/badge/-thaisllaynesantana@gmail.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:thaisllaynesantana@gmail.com)](mailto:thaisllaynesantana@gmail.com)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩🏻‍💻 Skills 
+- HTML
+- CSS
+- Bootstrap
+- SASS
+- JavaScript
+- ReactJS
+- PHP
+- SQL
